@@ -1,6 +1,6 @@
 ### About Me
 
-### [Professional] (https://github.com/V-Stapleton/eportfolio/blob/29e643b748e391b5fbe812cea8cbe9b3e356ed1e/Professional.md)
+### [Professional] https://github.com/V-Stapleton/eportfolio/blob/29e643b748e391b5fbe812cea8cbe9b3e356ed1e/Professional.md
 
 
 ### University of Essex Learning Experience

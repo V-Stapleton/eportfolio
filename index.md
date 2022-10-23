@@ -5,7 +5,7 @@
 
 ### University of Essex Learning Experience
 
-*   [[Summary Essay 1: Reflections on Data Science]](https://github.com/V-Stapleton/eportfolio/blob/765604d1b77dc647264e910cb031de26aee3b5a1/summary_essay.md)
+*   [Summary Essay 1: Reflections on Data Science](https://github.com/V-Stapleton/eportfolio/blob/765604d1b77dc647264e910cb031de26aee3b5a1/summary_essay.md)
 
 
 ---

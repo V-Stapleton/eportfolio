@@ -1,0 +1,33 @@
+Reflecting upon the posts of my peers, I have been able to broaden my perspective on the role of a data scientist using three new lenses: data scientist as a continuous learner, an ethicist, and a guardian.
+
+The first concept that I did not explore in my original post was continuous learning as a requirement for the role (Melendez, 2021). Although there are fears that data science roles will be fewer due to automation, continuous learning can help to keep a data scientist abreast of new technologies, thereby, increasing employability (Saxena, 2021).
+
+Ethics enforcement has become an additional, but vital, responsibility. The struggle to balance between rigid restrictions to protect privacy versus creating value is a fine tightrope to walk (Hand, 2018). It is imperative to critically evaluate the underlying assumptions of conclusions and applications as a result of analysis (Boyd and Crawford, 2012).
+
+Lastly, the role of data management throughout their lifecycle has come more into focus as a core requirement of the role. The primary aim of master data management is to ensure that there is “…control over master data values to enable consistent, shared, and contextual use across systems, of the most accurate, timely and relevant version of truth…” (Hubert Ofner et al., 2013: 473). The exact lifecycle model deployed depends on the data’s purpose, but Dietrich, Heller, and Yang (2015) provide a comprehensive model for general understanding:
+
+Discovery
+Data Prep
+Model Planning
+Model Building
+Communicating Results
+Operationalization
+What the model above does not account for, however, is ensuring the security of the data throughout. Leveraging the standards in any of the ISO 27K family can not only help organizations secure and defend their data, but its implementation can be independently verified through an audit (Disterer, 2013).
+
+This is certainly not an exhaustive list of requirements for a data scientist, but it does demonstrate how multifaceted and, potentially, rewarding the role can be.
+
+References
+
+Boyd, D. and Crawford, K. (2012). Critical Questions for Big Data. Information, Communication & Society, [online] 15(5), pp.662–679. doi:10.1080/1369118x.2012.678878.
+
+Dietrich, D., Heller, B., and Yang, B. (2015). Data Science & Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data. Indianapolis, IN: Wiley.
+
+Disterer, G. (2013). ISO/IEC 27000, 27001 and 27002 for Information Security Management. Journal of Information Security, [online] 04(02), pp.92–100. doi:10.4236/jis.2013.42011.
+
+Hand, D.J. (2018). Aspects of Data Ethics in a Changing World: Where Are We Now? Big Data, [online] 6(3), pp.176–190. doi:10.1089/big.2018.0083.
+
+Hubert Ofner, M., Straub, K., Otto, B., and Oesterle, H. (2013). Management of the Master Data lifecycle: A Framework for Analysis. Journal of Enterprise Information Management, [online] 26(4), pp.472–491. doi:10.1108/jeim-05-2013-0026.
+
+Melendez, C. (2021). Council Post: Just When a Data Scientist Has It All Figured Out, the Rules Change. [online] Forbes. Available at: https://www.forbes.com/sites/forbestechcouncil/2021/10/12/just-when-a-data-scientist-has-it-all-figured-out-the-rules-change/?sh=6129659342e3 [Accessed 9 Oct. 2022].
+
+Saxena, P. (2021). There Will Be a Shortage of Data Science Jobs in the Next 5 Years? [online] Medium. Available at: https://towardsdatascience.com/there-will-be-a-shortage-of-data-science-jobs-in-the-next-5-years-9f783737ed23 [Accessed 8 Oct. 2022].
